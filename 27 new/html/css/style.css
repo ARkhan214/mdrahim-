@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    width: 100%;
+    height: 25vh;
+    background-color: aqua;
+}
+
+h1 {
+    padding: 40px;
+    text-align: center;
+    color: brown;
+}
+#main{
+    width: 100%;
+    height: 70vh;
+}
+#sidebar {
+    width: 10%;
+    height: 70vh;
+    float: left;
+    background-color: beige;
+}
+ul {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#content {
+    width: 90%;
+    height: 70vh;
+    float: right;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+footer {
+    height: 5vh;
+    padding: 5px;
+    text-align: center;
+    color: chocolate;
+    background-color: blanchedalmond;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    display: block;
+    float: right;
+}
